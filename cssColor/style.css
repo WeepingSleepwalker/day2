@@ -1,0 +1,14 @@
+h1 {
+    color: cyan;
+    background-color: gray
+}
+h2 {
+    text-align: center;
+    background-color: hotpink;
+    text-decoration: aqua;
+}
+h3 {
+    text-align: right;
+    color: olivedrab;
+    text-decoration: underline;
+}
